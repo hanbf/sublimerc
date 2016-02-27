@@ -1,11 +1,12 @@
 My Sublime plugins list.
+========================
 
-1. SublimeSaveOnBuild
-2. SyncedSideBar
-3. AAAPackageDev
-4. BetterJavaScript
-5. IMESupport
-6. JSHint
-7. JavaScript & NodeJS Snippets
-8. LESS
-9. DocBlockr
+1. Baidu FE Code Style
+2. DocBlockr
+3. GitGutter
+4. Markdown Editing
+5. Babel
+6. Babel Snippets
+7. LESS
+8. jQuery
+9. Nodejs
